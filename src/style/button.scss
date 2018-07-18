@@ -4,7 +4,7 @@
     justify-self: center;
     
 
-    height: 50px;
+    height: 100px;
     width: 350px;
     background-color: $color-blue-one;
     border: none;
@@ -16,6 +16,8 @@
     font-family: 'Coda Caption', sans-serif;
     font-size: 18px;
     line-height: 22px;
+}
 
-    
+.button:hover {
+    cursor: pointer;
 }
